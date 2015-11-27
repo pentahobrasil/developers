@@ -14,8 +14,11 @@ Este espaço é dedicado a divulgar os Desenvolvedores Pentaho no Brasil.
 * Linkedin
 * Blog
 * Github Account
-* Tempo dedicado ao Pentaho:
-* Onde atua: 
+* Tempo dedicado ao Pentaho
+* Onde atua
+* Idiomas
+* Nacionalidade
+* Tem disponibilidade para projetos
 
 
 ### Lista de desenvolvedores
@@ -28,3 +31,6 @@ Este espaço é dedicado a divulgar os Desenvolvedores Pentaho no Brasil.
 * Github Account: http://github.com/caiomsouza/
 * Tempo dedicado ao Pentaho: Desde 2006  
 * Onde atua: No mundo inteiro. Tendo já realizado projetos no Brasil, Espanha, USA e Africa.
+* Idiomas: Fluente em Português, Espanhol, Inglês e conhecimentos básicos em Italiano e Francês.
+* Nacionalidade: Brasileira e Espanhola
+* Tem disponibilidade para projetos: Sim, através da empresa IT4biz.
